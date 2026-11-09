@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-with-pytest",
+      "title": "Testes Automatizados com pytest",
+      "description": "Aprenda a testar funções, classes e endpoints FastAPI com pytest.",
+      "path": "assignments/automated-testing-with-pytest",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Módulo de funções e classe",
+          "file": "school_tools.py",
+          "type": "python"
+        },
+        {
+          "name": "API de exemplo",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
